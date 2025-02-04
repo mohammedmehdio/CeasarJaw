@@ -1,6 +1,6 @@
 # 🚀 CeasearJaw
 
-Welcome to the **CeasearJaw**! 🔐 This is a Caesar Cipher Bash Script that allows you to **encrypt, decrypt, find a shift key, and brute-force decrypt** a given text using the **Caesar Cipher**.
+Welcome to **CeasearJaw**! 🔐 This is a Caesar Cipher Bash Script that allows you to **encrypt, decrypt, find a shift key, and brute-force decrypt** a given text using the **Caesar Cipher**.
 
 ## 📌 Features
 ✅ Encrypt text using a shift key 🔏  
