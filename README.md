@@ -1,6 +1,6 @@
-# 🚀 CeasearJaw
+# 🚀 CaesearJaw
 
-Welcome to **CeasearJaw**! 🔐 This is a Caesar Cipher Bash Script that allows you to **encrypt, decrypt, find a shift key, and brute-force decrypt** a given text using the **Caesar Cipher**.
+Welcome to **CaesearJaw**! 🔐 This is a Caesar Cipher Bash Script that allows you to **encrypt, decrypt, find a shift key, and brute-force decrypt** a given text using the **Caesar Cipher**.
 
 ## 📌 Features
 ✅ Encrypt text using a shift key 🔏  
@@ -13,23 +13,23 @@ First, clone this repository to your local machine:
 
 ```bash
 # Clone the repository
-git clone https://github.com/mohammedmehdio/CeasarJaw.git
+git clone https://github.com/mohammedmehdio/CaesarJaw.git
 
 # Navigate into the project directory
-cd CeaserJaw
+cd CaeserJaw
 ```
 
 ## ▶️ Usage
 Make sure the script has execution permission:
 
 ```bash
-chmod +x CeaserJaw.sh
+chmod +x CaeserJaw.sh
 ```
 
 Then, run the script:
 
 ```bash
-./CeaserJaw.sh
+./CaeeserJaw.sh
 ```
 
 ### 🔢 Options:
